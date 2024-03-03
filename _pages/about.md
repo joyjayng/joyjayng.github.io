@@ -23,8 +23,8 @@ My name is Rujie Wu, or 伍汝杰 in Chinese. You can contact me at joyjayng@gma
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 Our paper "Bongard-OpenWorld: Few-Shot Reasoning
-for Free-form Visual Concepts in the Real World" has been released.
+- *2024.01*: &nbsp;🎉🎉 Our paper "Bongard-OpenWorld: Few-Shot Reasoning
+for Free-form Visual Concepts in the Real World" has been accepted to ICLR 2024.
 
 
 
@@ -40,7 +40,7 @@ for Free-form Visual Concepts in the Real World](https://arxiv.org/pdf/2310.1020
   
 School of Computer Science, Peking University
   
-**Arxiv** \|
+**ICLR 2024** \|
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://arxiv.org/abs/2310.10207) \| 
 [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/joyjayng/Bongard-OpenWorld) \|
 [![](https://img.shields.io/badge/project-informational?style=plastic&logo=producthunt)](https://joyjayng.github.io/Bongard-OpenWorld.github.io/) 
