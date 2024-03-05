@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-My name is Rujie Wu, or 伍汝杰 in Chinese. You can contact me at joyjayng@gmail.com. I am currently pursuing my Ph.D. at the School of Computer Science, Peking University, under the supervision of Professor [Yizhou Wang](https://cfcs.pku.edu.cn/people/faculty/yizhouwang/index.htm). Prior to this, I earned my Master’s degree from Peking University in 2022. My primary research interests involve Computer Vision and Vision Language Models.
+My name is Rujie Wu, or 伍汝杰 in Chinese. You can contact me at joyjayng@gmail.com. I am currently pursuing my Ph.D. at the School of Computer Science, Peking University, under the supervision of Professor [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm). Prior to this, I earned my Master’s degree from Peking University in 2022. My primary research interests involve Computer Vision and Vision Language Models.
 
 
 
@@ -30,14 +30,14 @@ for Free-form Visual Concepts in the Real World" has been accepted to ICLR 2024.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/bow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/bow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bongard-OpenWorld: Few-Shot Reasoning
 for Free-form Visual Concepts in the Real World](https://arxiv.org/pdf/2310.10207.pdf)
 
-**Rujie Wu\***, Xiaojian Ma*, Qing Li, Wei Wang, Zhenliang Zhang, Song-Chun Zhu, Yizhou Wang
-  
+**Rujie Wu\***, Xiaojian Ma*, Zhenliang Zhang, Wei Wang, Qing Li, Song-Chun Zhu, Yizhou Wang
+
 School of Computer Science, Peking University
   
 **ICLR 2024** \|
@@ -98,4 +98,4 @@ Peking University, Beijing
 
 | Date    | Institution  | Group | Role | 
 | ---     | ---          | ---   | ---  |
-| 2022.08 - now | Beijing Institute for General Artificial Intelligence (BIGAI) | Cognition & Reasoning | Research Assistant |
+| 2022.08 - now | Beijing Institute for General Artificial Intelligence (BIGAI) | Machine Learning | Research Assistant |
