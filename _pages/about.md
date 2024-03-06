@@ -24,7 +24,7 @@ My name is Rujie Wu, or 伍汝杰 in Chinese. You can contact me at joyjayng@gma
 
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 Our paper "Bongard-OpenWorld: Few-Shot Reasoning
-for Free-form Visual Concepts in the Real World" has been accepted to ICLR 2024.
+for Free-form Visual Concepts in the Real World" has been accepted to [ICLR 2024](https://openreview.net/forum?id=hWS4MueyzC).
 
 
 
@@ -36,10 +36,10 @@ for Free-form Visual Concepts in the Real World" has been accepted to ICLR 2024.
 [Bongard-OpenWorld: Few-Shot Reasoning
 for Free-form Visual Concepts in the Real World](https://arxiv.org/pdf/2310.10207.pdf)
 
-**Rujie Wu\***, Xiaojian Ma*, Zhenliang Zhang, Wei Wang, Qing Li, Song-Chun Zhu, Yizhou Wang
+**Rujie Wu**, Xiaojian Ma, Zhenliang Zhang, Wei Wang, Qing Li, Song-Chun Zhu, Yizhou Wang
 
 School of Computer Science, Peking University
-  
+
 **ICLR 2024** \|
 [![](https://img.shields.io/badge/cite-grey?style=plastic&logo=GitBook)](https://arxiv.org/abs/2310.10207) \| 
 [![](https://img.shields.io/badge/-github-grey?style=plastic&logo=github)](https://github.com/joyjayng/Bongard-OpenWorld) \|
@@ -56,7 +56,7 @@ School of Computer Science, Peking University
 [Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection](https://arxiv.org/pdf/2207.10955.pdf)
 
 Hang Ye, Wentao Zhu, Chunyu Wang, **Rujie Wu**, Yizhou Wang
-  
+
 School of Computer Science, Peking University
 
 **ECCV 2022** \|
